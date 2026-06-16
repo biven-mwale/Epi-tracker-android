@@ -1,0 +1,1 @@
+-keep class zm.gov.wpho.epitracker.** { *; }
